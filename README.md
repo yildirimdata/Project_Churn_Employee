@@ -9,7 +9,7 @@ After a detailed EDA process and statistical significance tests, the algorithms 
 
 1) Unsupervised ML algorithm:
 
-       - K-Means
+    - K-Prototype (since the data is a mix of categorical and numerical features)
 
 2) Supervised ML algorithms:
 
